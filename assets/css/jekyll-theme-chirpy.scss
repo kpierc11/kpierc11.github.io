@@ -1,0 +1,28 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+//@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+// @font-face {
+//   font-family: '8Bit';
+//   src: url('/assets/fonts/Pixelzone-0v6y4.ttf') format('truetype');
+//   font-weight: 400;
+//   font-style: normal;
+// }
+
+img {
+  height: 100%;
+  object-fit: cover;
+}

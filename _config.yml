@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://i.ytimg.com/vi/mjIPbOgM810/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDm44xtGZHDhhtWwJxvNXBFzniR0A"
+avatar: "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/08/lotr-1.jpg?w=1200&h=675&fit=crop"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
