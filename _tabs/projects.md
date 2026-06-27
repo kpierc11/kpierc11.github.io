@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+layout: page
 icon: fa-solid fa-hat-wizard
 order: 2
 ---
@@ -8,17 +8,26 @@ order: 2
 
 This is just a collection of web projects I've made over the years
 
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-  <div class="col">
-    <div class="card">
-    <h2>Heroes Codex</h2>
+<div class="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-4">
+  {% for project in site.data.projects %}
+    <div class="col">
+      <div class="project-card h-100">
+        <img src="{{ project.image }}" class="card-img-top mt-0" alt="{{ project.title }}">
+        
+        <div class="p-3">
+          <h5 class="title">{{ project.title }}</h5>
+          
+          <p class="description">
+            {{ project.description }}
+          </p>
+
+          <a href="{{ project.link }}" target="_blank" class="btn btn-secondary">
+            View Project
+          </a>
+        </div>
+      </div>
     </div>
-    ![Grid Item 1](url/to/image1.png)
-  </div>
-  <div class="col">
-    ![Grid Item 2](url/to/image2.png)
-  </div>
-  <div class="col">
-    ![Grid Item 3](url/to/image3.png)
-  </div>
+
+{% endfor %}
+
 </div>

@@ -26,3 +26,28 @@ img {
   height: 100%;
   object-fit: cover;
 }
+
+.project-card {
+  width: auto;
+  box-shadow: var(--card-shadow);
+  border-radius: 12px;
+}
+
+.project-card img {
+  object-fit: cover;
+  width: 100%;
+  height: 235px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+}
+
+.project-card .title {
+}
+
+.project-card .body {
+  padding: 10px;
+}
+
+.content a.popup {
+  margin-top: 0px;
+}

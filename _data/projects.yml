@@ -1,0 +1,24 @@
+- title: Heroes Codex
+  image: /assets/img/projects/project-heroes-codex.png
+  description: Fan-driven resource hub for Heroes of the Storm with guides, free rotation info, and map strategies.
+  link: https://heroescodex.com
+
+- title: MyQuattro (React Native App)
+  image: /assets/img/projects/myquattro.png
+  description: React Native app built for HBS to manage internal workflows and mobile functionality.
+  link: https://apps.apple.com/us/app/myquattro/id6761488632
+
+- title: HBS Website
+  image: /assets/img/projects/hbs-site.png
+  description: Official website built for HBS with modern responsive layout and CMS integration.
+  link: https://example.com
+
+- title: Better Die Gaming (WordPress)
+  image: /assets/img/projects/better-die-gaming.png
+  description: WordPress gaming site currently in development focusing on community content and updates.
+  link: https://betterdiegaming.com
+
+- title: Old Personal Site
+  image: /assets/img/projects/old-portfolio-site.png
+  description: My earlier personal portfolio website showcasing foundational web development work.
+  link: https://kalebpierce.netlify.app/
