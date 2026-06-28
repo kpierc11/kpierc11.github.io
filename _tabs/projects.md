@@ -8,7 +8,7 @@ order: 2
 
 This is just a collection of web projects I've made over the years
 
-<div class="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-4">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 g-4">
   {% for project in site.data.projects %}
     <div class="col">
       <div class="project-card h-100">
