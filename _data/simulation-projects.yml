@@ -1,0 +1,4 @@
+- title: Falling Sand Simulation
+  image: /assets/img/projects/falling-sand-simulation.png
+  description: A falling sand simulation built with sdl3 and c++;
+  link: https://github.com/kpierc11/Falling-Sand-Simulator

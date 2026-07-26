@@ -6,126 +6,94 @@ order: 4
 
 # Kaleb Pierce
 
-## Full Stack & Mobile Developer
-
-**Phone:** [423-430-4732](tel:+14234304732)  
-**Email:** [kalebpierce@gmail.com](mailto:kalebpierce@gmail.com)
-
----
-
-## Summary
-
-Full Stack Software Developer with **5+ years of experience** building enterprise web applications, cross-platform mobile applications, and IoT solutions. Experienced in **React Native, Expo, React, PHP, Go, WordPress, Bluetooth Low Energy (BLE), and REST APIs**. Passionate about creating performant, maintainable software from concept to deployment.
+(423) 430-4732  
+kalebpierce@gmail.com  
+https://linkedin.com/in/kaleb  
+https://github.com/kpierc11
 
 ---
 
-# Technical Skills
+## Technical Skills
 
 ### Languages
 
-- TypeScript
-- JavaScript
-- Go
+- C/C++
 - PHP
-- C++
-- HTML
-- CSS
+- JavaScript
+- TypeScript
+- Python
+- SQL (Postgres)
+- HTML/CSS
 
-### Frameworks
+### Frameworks & Libraries
 
 - React
 - React Native
-- Expo
-- Next.js
 - Node.js
 - WordPress
+- Material UI
 
-### Mobile
-
-- Bluetooth Low Energy (BLE)
-- Expo EAS
-- App Store Connect
-- Google Play Console
-
-### IoT & APIs
-
-- REST APIs
-- Custom Firmware Protocols
-- JSON
-
-### Databases
-
-- MySQL
-
-### Tools & Platforms
+### Developer Tools
 
 - Git
-- Gitea
-- Figma
-- WP Engine
-- Cloudways
+- Docker
+- DigitalOcean
+- VS Code
+- Visual Studio
+- PhpStorm
 
 ---
 
-# Experience
+## Experience
 
-## Full Stack Developer
+### Full Stack Developer
 
-**DPI Power**  
-_Nov 2025 – Jul 2026_  
-Piney Flats, Tennessee
+**DPI Power** — Piney Flats, TN  
+**November 2025 – Present**
 
-- Designed and developed the **MyQuattro** React Native (Expo) application from the ground up, publishing production releases to both the Apple App Store and Google Play.
-- Implemented a Bluetooth Low Energy communication layer using a custom firmware protocol to stream real-time sensor data (voltage, solar levels, device status) and control scheduling and automation.
-- Rebuilt the company WordPress website and developed a web-based LoRa dashboard for remote device monitoring and control.
-- Established Gitea Git workflows and collaborated with the senior firmware engineer on system architecture and technical documentation.
+- Developed and designed the **MyQuattro** mobile app for iOS and Android using React Native, TypeScript, and Expo, including deployment to both app stores.
+- Implemented a Bluetooth Low Energy (BLE) communication layer using a custom firmware protocol to stream real-time sensor data (voltage, solar levels, device status) and support scheduling and automation controls.
+- Built and designed the new Hydrobioscience website using WordPress block theme architecture.
+- Developed a web-based LoRa dashboard for remote device monitoring and control using React, TypeScript, and Material UI.
 
----
+### Full Stack Developer
 
-## Full Stack Web Developer
+**Ntara** — Johnson City, TN  
+**April 2022 – October 2025**
 
-**Ntara**  
-_Apr 2022 – Oct 2025_  
-Johnson City, Tennessee
+- Built custom WordPress block themes, native Gutenberg blocks, and custom plugins for enterprise clients using WordPress, PHP, and JavaScript.
+- Replaced third-party plugins with lean custom implementations, reducing plugin bloat and lowering long-term maintenance overhead.
+- Optimized performance and accessibility across multi-site environments, significantly improving page speed, user experience, and WCAG compliance.
 
-- Built custom WordPress themes, Gutenberg blocks, and plugins for enterprise clients including **Vaya Health** and **Brightridge Electric**.
-- Replaced third-party plugins with lightweight custom implementations, reducing security risks and maintenance overhead.
-- Improved website performance, accessibility, and SEO across multi-site environments while maintaining WCAG compliance.
+### Full Stack Developer
 
----
+**The AAM Group** — Piney Flats, TN  
+**April 2021 – February 2022**
 
-## Freelance WordPress Developer
+- Created a custom image gallery using React and TypeScript to allow customers to showcase their rigs and vehicle builds.
+- Implemented drag-and-drop functionality for modifying and ordering settings using JavaScript libraries and the OpenCart API.
+- Developed a custom store locator that used the browser Geolocation API and cookies to allow users to select and save their preferred store.
+- Extended the product export system in PHP to include additional fields in generated Excel reports.
 
-**Emberwind Studios** _(Founder)_  
-_Nov 2021 – Dec 2022_  
-Elizabethton, Tennessee
+### Frontend Developer
 
-- Founded and operated a freelance WordPress development business, managing client relationships, project timelines, and a small development team.
-- Designed UI/UX prototypes in Figma and developed responsive websites and custom web applications.
-- Contracted to build a React dashboard prototype for DPI Power.
-- Developed **Heroes Codex**, a React application powered by a headless WordPress CMS using the REST API.
+**The AAM Group** — Piney Flats, TN  
+**November 2020 – April 2021**
 
----
-
-## Full Stack Web Developer
-
-**The AAM Group**  
-_Apr 2021 – Nov 2021_  
-Piney Flats, Tennessee
-
-- Developed custom React applications including an image gallery, drag-and-drop administrative tools, and a geolocation-powered store locator.
+- Collaborated with a senior developer to implement a dynamic cabinet hinge selection feature using JavaScript, PHP, and frontend templates.
+- Added a custom tabbed interface to promote related door types based on the user's cabinet selection.
 
 ---
 
-# Education
+## Education
 
-## Bachelor of Science in Computer Science
+### Western Governors University
 
-**Western Governors University** _(Online)_  
-**Expected Graduation:** December 2026
+**Bachelor of Science in Computer Science** _(Expected 2027)_  
+Salt Lake City, UT
 
-## Associate of Science in Computer Programming
+### Northeast State Community College
 
-**Northeast State Community College**  
-Blountville, Tennessee  
-**2019**
+**Associate of Science in Computer Science**  
+Blountville, TN  
+**August 2017 – May 2019**
