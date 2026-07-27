@@ -1,4 +1,8 @@
 - title: MyQuattro (React Native App)
   image: /assets/img/projects/myquattro.png
-  description: React Native app built for HBS to manage internal workflows and mobile functionality.
+  description: Full-stack React Native mobile application built for Hydro Bio Science. Features custom developed UI, Bluetooth Low Energy (BLE) connectivity with HBS-specific devices, and real-time monitoring of data such as voltage levels and solar performance metrics.
   link: https://apps.apple.com/us/app/myquattro/id6761488632
+  icons:
+    - devicon-react-original
+    - devicon-typescript-original
+    - devicon-javascript-plain

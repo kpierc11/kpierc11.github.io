@@ -1,4 +1,6 @@
 - title: Falling Sand Simulation
   image: /assets/img/projects/falling-sand-simulation.png
-  description: A falling sand simulation built with sdl3 and c++;
+  description: A real-time particle simulation built with C++ and SDL3. Uses a single vector-based grid to simulate sand, water, and wall interactions with custom movement and rendering logic.
   link: https://github.com/kpierc11/Falling-Sand-Simulator
+  icons:
+    - devicon-cplusplus-plain

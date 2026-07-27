@@ -12,6 +12,7 @@ Several projects that I've worked on or solo created for the last several years.
   {% for project in site.data.web-projects %}
     <div class="col">
       <div class="project-card h-100">
+
         <img
           src="{{ project.image | relative_url }}"
           class="mt-0"
@@ -21,6 +22,15 @@ Several projects that I've worked on or solo created for the last several years.
         >
 
         <div class="content-container">
+
+          {% if project.icons %}
+            <div class="project-icons mb-4">
+              {% for icon in project.icons %}
+                <i class="project-icon {{ icon }}"></i>
+              {% endfor %}
+            </div>
+          {% endif %}
+
           <h5 class="title">{{ project.title }}</h5>
 
           <p class="description">
@@ -49,6 +59,7 @@ Several projects that I've worked on or solo created for the last several years.
   {% for project in site.data.mobile-projects %}
     <div class="col">
       <div class="project-card h-100">
+
         <img
           src="{{ project.image | relative_url }}"
           class="mt-0"
@@ -58,6 +69,15 @@ Several projects that I've worked on or solo created for the last several years.
         >
 
         <div class="content-container">
+
+          {% if project.icons %}
+            <div class="project-icons mb-4">
+              {% for icon in project.icons %}
+                <i class="project-icon {{ icon }}"></i>
+              {% endfor %}
+            </div>
+          {% endif %}
+
           <h5 class="title">{{ project.title }}</h5>
 
           <p class="description">
@@ -86,6 +106,7 @@ Several projects that I've worked on or solo created for the last several years.
   {% for project in site.data.game-projects %}
     <div class="col">
       <div class="project-card h-100">
+
         <img
           src="{{ project.image | relative_url }}"
           class="mt-0"
@@ -95,6 +116,15 @@ Several projects that I've worked on or solo created for the last several years.
         >
 
         <div class="content-container">
+
+          {% if project.icons %}
+            <div class="project-icons mb-4">
+              {% for icon in project.icons %}
+                <i class="project-icon {{ icon }}"></i>
+              {% endfor %}
+            </div>
+          {% endif %}
+
           <h5 class="title">{{ project.title }}</h5>
 
           <p class="description">
@@ -123,6 +153,7 @@ Several projects that I've worked on or solo created for the last several years.
   {% for project in site.data.simulation-projects %}
     <div class="col">
       <div class="project-card h-100">
+
         <img
           src="{{ project.image | relative_url }}"
           class="mt-0"
@@ -132,6 +163,15 @@ Several projects that I've worked on or solo created for the last several years.
         >
 
         <div class="content-container">
+
+          {% if project.icons %}
+            <div class="project-icons mb-4">
+              {% for icon in project.icons %}
+                <i class="project-icon {{ icon }}"></i>
+              {% endfor %}
+            </div>
+          {% endif %}
+
           <h5 class="title">{{ project.title }}</h5>
 
           <p class="description">

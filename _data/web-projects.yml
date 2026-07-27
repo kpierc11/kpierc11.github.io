@@ -1,19 +1,44 @@
+- title: HydroBioScience Website
+  image: /assets/img/projects/hbs-site.png
+  description: Professional website built for Hydro Bio Science using WordPress and PHP. Responsible for developing and maintaining a responsive CMS-driven site focused on usability, content updates, and company branding.
+  link: https://hydro-bioscience.com
+  icons:
+    - devicon-wordpress-plain
+    - devicon-php-plain
+
+- title: Virtual Business Card
+  image: /assets/img/projects/virtual-business-card.png
+  description: A full-stack virtual business card app built with React, DaisyUI, Go, PostgreSQL, and Supabase. Uses a Go backend with database integration and is deployed through Fly.io and Netlify.
+  link: https://superfreevirtualbusinesscards.netlify.app/
+  icons:
+    - devicon-react-original
+    - devicon-tailwindcss-original
+    - devicon-go-original-wordmark
+    - devicon-postgresql-plain
+    - devicon-supabase-plain
+    - devicon-netlify-original
+
 - title: Heroes Codex
   image: /assets/img/projects/project-heroes-codex.png
-  description: Fan-driven resource hub for Heroes of the Storm with guides, free rotation info, and map strategies.
+  description: A fan-made Heroes of the Storm resource site featuring hero guides, free rotation updates, and map strategy information.
   link: https://heroescodex.com
-
-- title: HBS Website
-  image: /assets/img/projects/hbs-site.png
-  description: Official website built for HBS with modern responsive layout and CMS integration.
-  link: https://hydro-bioscience.com
+  icons:
+    - devicon-wordpress-plain
+    - devicon-php-plain
 
 - title: Better Die Gaming (WordPress)
   image: /assets/img/projects/better-die-gaming.png
-  description: WordPress gaming site currently in development focusing on community content and updates.
+  description: A gaming community website built with WordPress and PHP. Currently in development with plans for community-focused features and content.
   link: https://betterdiegaming.com
+  icons:
+    - devicon-wordpress-plain
+    - devicon-php-plain
 
 - title: Old Personal Site
   image: /assets/img/projects/old-portfolio-site.png
-  description: My earlier personal portfolio website showcasing foundational web development work.
+  description: My previous portfolio site built with React, DaisyUI, and Three.js. Includes interactive UI elements, responsive design, and 3D web components.
   link: https://kalebpierce.netlify.app/
+  icons:
+    - devicon-react-original
+    - devicon-tailwindcss-original
+    - devicon-threejs-original
