@@ -1,6 +1,20 @@
 - title: Falling Sand Simulation
   image: /assets/img/projects/falling-sand-simulation.png
-  description: A real-time particle simulation built with C++ and SDL3. Uses a single vector-based grid to simulate sand, water, and wall interactions with custom movement and rendering logic.
+  description: A real-time particle simulation built with C++ and SDL3. Features a high-performance vector-based grid that simulates sand, water, and solid materials with custom physics, movement, and rendering logic.
   link: https://github.com/kpierc11/Falling-Sand-Simulator
+  icons:
+    - devicon-cplusplus-plain
+
+- title: Chip 8 Interpreter
+  image: /assets/img/projects/chip-8-interpreter.png
+  description: A CHIP-8 interpreter written in C++ that emulates the original virtual machine, including opcode execution, memory management, timers, graphics rendering, and keyboard input.
+  link: https://github.com/kpierc11/Chip8-Interpreter
+  icons:
+    - devicon-cplusplus-plain
+
+- title: OpenGL Renderer
+  image: /assets/img/projects/open-gl-renderer.png
+  description: A C++ OpenGL renderer built while learning modern OpenGL. Implements shaders, textures, cameras, transformations, and lighting to render interactive 3D scenes.
+  link: https://github.com/kpierc11/OpenGl-Test-Renderer
   icons:
     - devicon-cplusplus-plain
